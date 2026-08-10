@@ -1,0 +1,42 @@
+GitHub
+│
+└── transport-erp/
+    │
+    ├── README.md
+    │
+    ├── docs/
+    │   ├── 01_vision_cadrage.md
+    │   ├── 02_utilisateurs_personas.md
+    │   ├── 03_modules_fonctionnels.md
+    │   ├── 04_workflows_metier.md
+    │   ├── 05_regles_metier.md
+    │   ├── 06_mvp.md
+    │   ├── 07_architecture_fonctionnelle.md
+    │   ├── 08_architecture_technique.md
+    │   └── 09_roadmap.md
+    │
+    ├── src/
+    │
+    ├── tests/
+    │
+    └── …
+
+
+
+📚 DOCUMENTATION
+       ↓
+🎯 VISION
+       ↓
+👥 MÉTIER
+       ↓
+🔄 WORKFLOWS
+       ↓
+📋 RÈGLES
+       ↓
+📦 MVP
+       ↓
+🏗️ ARCHITECTURE
+       ↓
+💻 CODE
+       ↓
+🧪 TESTS
