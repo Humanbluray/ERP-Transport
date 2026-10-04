@@ -1,0 +1,91 @@
+ERP-TRANSPORT/
+│
+├── README.md
+│
+├── docs/
+│   │
+│   ├── 01-cadrage/
+│   │   ├── 01-vision.md
+│   │   ├── 02-objectifs-et-perimetre.md
+│   │   └── 03-principes-directeurs.md
+│   │
+│   ├── 02-modele-metier/
+│   │   ├── 01-modele-conceptuel.md
+│   │   ├── 02-entites-metier.md
+│   │   └── 03-relations-metier.md
+│   │
+│   ├── 03-workflows/
+│   │   ├── 01-synthese-workflows.md
+│   │   ├── 02-voyages.md
+│   │   ├── 03-reservations.md
+│   │   ├── 04-billetterie.md
+│   │   ├── 05-colis.md
+│   │   └── 06-administration.md
+│   │
+│   ├── 04-regles-metier/
+│   │   ├── 01-regles-metier.md
+│   │   └── 02-cas-particuliers.md
+│   │
+│   ├── 05-utilisateurs-et-acces/
+│   │   ├── 01-utilisateurs.md
+│   │   ├── 02-roles.md
+│   │   ├── 03-permissions.md
+│   │   └── 04-matrice-roles-permissions.md
+│   │
+│   ├── 06-donnees/
+│   │   ├── 01-modele-logique.md
+│   │   ├── 02-schema-base-de-donnees.md
+│   │   ├── 03-statuts-et-transitions.md
+│   │   ├── 04-historisation-et-audit.md
+│   │   └── 05-rls.md
+│   │
+│   ├── 07-architecture/
+│   │   ├── 01-architecture-generale.md
+│   │   ├── 02-architecture-saas.md
+│   │   ├── 03-backend.md
+│   │   ├── 04-frontend.md
+│   │   └── 05-securite.md
+│   │
+│   ├── 08-modules/
+│   │   ├── administration.md
+│   │   ├── referentiels.md
+│   │   ├── voyages.md
+│   │   ├── reservations.md
+│   │   ├── billetterie.md
+│   │   ├── colis.md
+│   │   └── reporting.md
+│   │
+│   ├── 09-decisions/
+│   │   └── decisions-architecture-et-metier.md
+│   │
+│   └── 10-projet/
+│       ├── roadmap.md
+│       ├── backlog.md
+│       └── comptes-rendus-reunions.md
+│
+├── database/
+│   ├── migrations/
+│   └── seed/
+│
+├── backend/
+├── frontend/
+└── tests/
+
+
+📚 DOCUMENTATION
+       ↓
+🎯 VISION
+       ↓
+👥 MÉTIER
+       ↓
+🔄 WORKFLOWS
+       ↓
+📋 RÈGLES
+       ↓
+📦 MVP
+       ↓
+🏗️ ARCHITECTURE
+       ↓
+💻 CODE
+       ↓
+🧪 TESTS
